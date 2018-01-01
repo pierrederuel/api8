@@ -1,0 +1,1 @@
+select utilisateu0_.id as id1_12_, utilisateu0_.active as active2_12_, utilisateu0_.employe_id as employe_6_12_, utilisateu0_.password as password3_12_, utilisateu0_.token as token4_12_, utilisateu0_.username as username5_12_ from utilisateur utilisateu0_
